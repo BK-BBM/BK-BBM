@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BK-BBM
-- 👀 I’m interested in ML,Android, BI
-- 🌱 I’m currently learning webApis, ML
+- 👀 I’m interested in ML,Android, BI, DevOps, React
+- 🌱 I’m currently learning webApis, ML and whatever I can get my hands on
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me ...
 
